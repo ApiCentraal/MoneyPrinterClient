@@ -28,7 +28,7 @@ export function renderLanding(): string {
       </article>
       <article class="feature-card">
         <h3>Operator dashboard</h3>
-        <p>Pipeline board, lead detail en job-triggers — private backend, publieke demo hieronder.</p>
+        <p>Pipeline board, lead detail en job-triggers — interactieve demo hieronder.</p>
       </article>
     </section>
   `;

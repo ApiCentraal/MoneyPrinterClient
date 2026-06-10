@@ -19,7 +19,7 @@ function render(): void {
     </section>
     <footer class="site-footer">
       <p>MoneyPrinter door <a href="https://github.com/ApiCentraal">ApiCentraal / FectionLabs</a></p>
-      <p>Deze site toont uitsluitend fictieve data. De operationele stack draait in een private repository.</p>
+      <p>Deze site toont uitsluitend fictieve data.</p>
     </footer>
   `;
 

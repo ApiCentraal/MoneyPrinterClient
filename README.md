@@ -1,4 +1,4 @@
-# MoneyPrinter — Marketing & Demo
+# MoneyPrinterClient — Marketing & Demo
 
 Publieke landing page en interactieve pipeline-demo voor [MoneyPrinter](https://github.com/ApiCentraal/MoneyPrinter).
 
@@ -10,7 +10,7 @@ Deploy naar Vercel of GitHub Pages en link vanuit de private README.
 
 Voorbeeld (na deploy):
 
-`https://moneyprinter-client.vercel.app`
+`https://moneyprinterclient.vercel.app`
 
 ## Lokaal draaien
 
